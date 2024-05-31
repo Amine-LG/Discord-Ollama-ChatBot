@@ -107,3 +107,10 @@ ollama==0.2.0
 ### Reset Command
 
 You can reset the conversation log by using the `!reset` command in Discord.
+
+## Video Tutorials
+
+### How to Install
+
+[![Watch the video](https://img.youtube.com/vi/cuQtLhRT-Ls/0.jpg)](https://www.youtube.com/watch?v=cuQtLhRT-Ls)
+
